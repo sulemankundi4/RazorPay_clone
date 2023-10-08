@@ -13,13 +13,30 @@ a{
    font-size: 15px;
 }
 
+.hero-head{
+   font-weight: 800;
+}
+
 .nav-container{
    width: 100%;
    background-color: #02042B;
-   padding: 10px;
 }
 
 .ind-flag {
    width: 42px;
    height: 31px;
+}
+
+.hero-para{
+   font-size: 17px;
+   opacity: 0.6;
+   font-weight: 400;
+   line-height: 26px;
+}
+
+.line{
+   display: inline-block;
+   width: 24px;
+   height: 4px;
+   background-color: #61CEA6;
 }

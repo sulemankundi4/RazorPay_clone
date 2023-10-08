@@ -40,3 +40,32 @@ a{
    height: 4px;
    background-color: #61CEA6;
 }
+
+.line-2{
+   display: block;
+   margin: 0px auto;
+   width: 54px;
+   height: 4px;
+   background-color: #61CEA6;
+}
+.second-sec{
+   margin-top: 162px;
+}
+
+.second-sec h1{
+   font-weight: 900;
+   font-size: 27px;
+   text-align: center;
+}
+
+.feature-1{
+   margin-top: 65px;
+   border: 1px solid rgb(216, 215, 215);
+}
+
+.feature-1 h1{
+   font-size: 29px;
+   font-weight: 600;
+   letter-spacing: 1px;
+   margin-bottom: 40px;
+}
